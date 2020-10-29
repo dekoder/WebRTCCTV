@@ -11,7 +11,7 @@
     "eslint": "^3.19.0",
     "kurento-client": "Kurento/kurento-client-js",
     "node-fetch": "^1.7.0",
-    "ws": "~0.7.2"
+    "ws": "~3.3.1"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
